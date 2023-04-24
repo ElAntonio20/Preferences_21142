@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_vertical"
+        android:title="Vertical"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_horizontal"
+        android:title="Horizontal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_grid_2"
+        android:title="2 columnas"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_grid_3"
+        android:title="3 columnas"
+        app:showAsAction="never" />
+</menu>
